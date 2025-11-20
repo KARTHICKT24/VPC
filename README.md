@@ -1,6 +1,6 @@
 ## Virtual Private Cloud (VPC)
 
-### Name: KARTGICK KISHORE T
+### Name: KARTHICK KISHORE T
 ### Register Number: 212223220042
 
 ---
